@@ -1,6 +1,6 @@
 name: "Feature"
 description: "Add a feature"
-title: "[Feature] <title>"
+title: "Feature: <title>"
 labels: [feature]
 assignees: [cave-bjornson]
 body:
